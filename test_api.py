@@ -22,3 +22,4 @@ def test_presidents_api():
                 presidents.remove(i)
                 break
     assert len(presidents) == 0
+
